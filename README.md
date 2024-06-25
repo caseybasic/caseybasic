@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Casey! I am an undergraduate student at the University of North Georgia. I am studying environmental spatial analysis, and I have a minor in Sociology. 
 
 <!--
 **caseybasic/caseybasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
