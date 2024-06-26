@@ -1,4 +1,4 @@
-# Hello, my name is Casey! 
+# Hello, I'm Casey!
 
 I am an undergraduate student at the University of North Georgia. I'm studying geospatial data analysis as well as environmental-sociological perspectives to provide solutions in the field of sustainable development, management, and conservation. 
 
